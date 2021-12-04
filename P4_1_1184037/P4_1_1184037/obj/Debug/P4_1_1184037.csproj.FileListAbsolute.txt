@@ -1,0 +1,11 @@
+C:\Users\Aftershock\source\repos\P4_1_Saya\P4_1_Saya\obj\Debug\P4_1_Saya.csproj.AssemblyReference.cache
+C:\Users\Aftershock\source\repos\P4_1_Saya\P4_1_Saya\obj\Debug\P4_1_Saya.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aftershock\source\repos\P4_1_Saya\P4_1_Saya\obj\Debug\P4_1_Saya.Form1.resources
+C:\Users\Aftershock\source\repos\P4_1_Saya\P4_1_Saya\obj\Debug\P4_1_Saya.Properties.Resources.resources
+C:\Users\Aftershock\source\repos\P4_1_Saya\P4_1_Saya\obj\Debug\P4_1_Saya.csproj.GenerateResource.cache
+C:\Users\Aftershock\source\repos\P4_1_Saya\P4_1_Saya\obj\Debug\P4_1_Saya.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Downloads\praktikum 4\Praktikum4MembuatProgramWindows-main\P4_1_Saya\P4_1_Saya\bin\Debug\P4_1_Saya.exe.config
+C:\Users\toshiba\Downloads\praktikum 4\Praktikum4MembuatProgramWindows-main\P4_1_Saya\P4_1_Saya\obj\Debug\P4_1_Saya.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Downloads\praktikum 4\Praktikum4MembuatProgramWindows-main\P4_1_Saya\P4_1_Saya\obj\Debug\P4_1_Saya.Form1.resources
+C:\Users\toshiba\Downloads\praktikum 4\Praktikum4MembuatProgramWindows-main\P4_1_Saya\P4_1_Saya\obj\Debug\P4_1_Saya.Properties.Resources.resources
+C:\Users\toshiba\Downloads\praktikum 4\Praktikum4MembuatProgramWindows-main\P4_1_Saya\P4_1_Saya\obj\Debug\P4_1_Saya.csproj.GenerateResource.Cache
