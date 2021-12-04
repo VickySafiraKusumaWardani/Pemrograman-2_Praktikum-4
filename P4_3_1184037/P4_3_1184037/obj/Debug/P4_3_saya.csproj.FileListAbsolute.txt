@@ -1,0 +1,11 @@
+C:\Users\Aftershock\source\repos\P4_3_saya\P4_3_saya\bin\Debug\P4_3_saya.exe.config
+C:\Users\Aftershock\source\repos\P4_3_saya\P4_3_saya\bin\Debug\P4_3_saya.exe
+C:\Users\Aftershock\source\repos\P4_3_saya\P4_3_saya\bin\Debug\P4_3_saya.pdb
+C:\Users\Aftershock\source\repos\P4_3_saya\P4_3_saya\obj\Debug\P4_3_saya.csproj.AssemblyReference.cache
+C:\Users\Aftershock\source\repos\P4_3_saya\P4_3_saya\obj\Debug\P4_3_saya.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aftershock\source\repos\P4_3_saya\P4_3_saya\obj\Debug\P4_3_saya.Form1.resources
+C:\Users\Aftershock\source\repos\P4_3_saya\P4_3_saya\obj\Debug\P4_3_saya.Properties.Resources.resources
+C:\Users\Aftershock\source\repos\P4_3_saya\P4_3_saya\obj\Debug\P4_3_saya.csproj.GenerateResource.cache
+C:\Users\Aftershock\source\repos\P4_3_saya\P4_3_saya\obj\Debug\P4_3_saya.csproj.CoreCompileInputs.cache
+C:\Users\Aftershock\source\repos\P4_3_saya\P4_3_saya\obj\Debug\P4_3_saya.exe
+C:\Users\Aftershock\source\repos\P4_3_saya\P4_3_saya\obj\Debug\P4_3_saya.pdb
